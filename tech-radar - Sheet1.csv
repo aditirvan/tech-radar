@@ -1,0 +1,37 @@
+name,ring,quadrant,isNew,description
+PostgresSQL,adopt,Datastore,FALSE,Contoh description
+MongoDB,adopt,Datastore,FALSE,Contoh description
+MariaDB,adopt,Datastore,FALSE,Contoh description
+Redis,adopt,Datastore,FALSE,Contoh description
+Kafka,adopt,Datastore,FALSE,Contoh description
+TiDB,trial,Datastore,FALSE,Contoh description
+RabbitMQ,assess,Datastore,FALSE,Contoh description
+ArangoDB,hold,Datastore,FALSE,Contoh description
+Golang,adopt,Language,FALSE,Contoh description
+Python,adopt,Language,FALSE,Contoh description
+NodeJS,adopt,Language,FALSE,Contoh description
+Ruby,trial,Language,FALSE,Contoh description
+C#,trial,Language,FALSE,Contoh description
+Jaksel Lang,assess,Language,FALSE,Contoh description
+PHP,hold,Language,FALSE,Contoh description
+Visual Basic,hold,Language,FALSE,Contoh description
+Kubernetes,adopt,Tools,FALSE,Contoh description
+Docker,adopt,Tools,FALSE,Contoh description
+Terraform,adopt,Tools,FALSE,Contoh description
+Ansible,adopt,Tools,FALSE,Contoh description
+Gitlab,adopt,Tools,FALSE,Contoh description
+Atlantis,adopt,Tools,FALSE,Contoh description
+FluxCD,adopt,Tools,FALSE,Contoh description
+ArgoCD,trial,Tools,FALSE,Contoh description
+Pulumy,trial,Tools,FALSE,Contoh description
+Github,assess,Tools,FALSE,Contoh description
+Jenkins,assess,Tools,FALSE,Contoh description
+BamboCI,hold,Tools,FALSE,Contoh description
+KafdDrop,hold,Tools,FALSE,Contoh description
+Amazon Web Service,adopt,Cloud Environment,FALSE,Contoh description
+Google Cloud Platform,adopt,Cloud Environment,FALSE,Contoh description
+Huawei Cloud,trial,Cloud Environment,FALSE,Contoh description
+Azure,trial,Cloud Environment,FALSE,Contoh description
+AliCloud,hold,Cloud Environment,FALSE,Contoh description
+Digital Ocean,hold,Cloud Environment,FALSE,Contoh description
+VULTR,hold,Cloud Environment,FALSE,Contoh description
